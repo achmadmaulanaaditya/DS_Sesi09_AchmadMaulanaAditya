@@ -7,7 +7,7 @@ Web Automation using WebdriverIO for saucedemo.com website
 1. install dependencies using
    `npm install`
 2. run command for Web Automation
-   `npm run wdio`
+   `npm run DS09`
 
 ### Sample report
 
